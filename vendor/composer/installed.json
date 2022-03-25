@@ -1,0 +1,57 @@
+{
+    "packages": [
+        {
+            "name": "jamesgordo/php-csv-parser",
+            "version": "1.0.3",
+            "version_normalized": "1.0.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jamesgordo/php-csv-parser.git",
+                "reference": "4021b82cf628b36dc7dfe0054f85f4ec0d8d96b8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jamesgordo/php-csv-parser/zipball/4021b82cf628b36dc7dfe0054f85f4ec0d8d96b8",
+                "reference": "4021b82cf628b36dc7dfe0054f85f4ec0d8d96b8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8 || ^5.5 || ^6.5 || ^7.0"
+            },
+            "time": "2019-03-01T05:51:00+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "JamesGordo\\CSV\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "James Gordo",
+                    "email": "hello@jamesgordo.com"
+                }
+            ],
+            "description": "Easiest and Convenient Way to Parse CSV Files using PHP.",
+            "keywords": [
+                "csv parser",
+                "php",
+                "php csv parser"
+            ],
+            "support": {
+                "issues": "https://github.com/jamesgordo/php-csv-parser/issues",
+                "source": "https://github.com/jamesgordo/php-csv-parser/tree/1.0.3"
+            },
+            "install-path": "../jamesgordo/php-csv-parser"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

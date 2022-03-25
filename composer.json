@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jamesgordo/php-csv-parser": "^1.0"
+    }
+}
